@@ -30,8 +30,8 @@ npm start
 
 ## Demo
 
-![landing](/demo/Screenshot1.png)
+![landing](/assignment1/demo/Screenshot1.png)
 
-![added data](/demo/Screenshot2.png)
+![added data](/assignment1/demo/Screenshot2.png)
 
-![output](/demo/Screenshot3.png)
+![output](/assignment1/demo/Screenshot3.png)
