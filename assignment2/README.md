@@ -28,6 +28,6 @@ npm start
 
 ## Demo
 
-![landing](/demo/Screenshotk1.png)
+![landing](/assignment2/demo/Screenshotk1.png)
 
-![knight placed](/demo/Screenshotk2.png)
+![knight placed](/assignment2/demo/Screenshotk2.png)
