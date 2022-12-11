@@ -1,0 +1,15 @@
+{
+  "short_name": "Knight Position",
+  "name": "App to find knight position",
+  "icons": [
+    {
+      "src": "589743-200.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

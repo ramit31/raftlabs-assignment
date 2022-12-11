@@ -1,0 +1,15 @@
+{
+  "short_name": "DoS App",
+  "name": "Create App to Find Degree of Separation",
+  "icons": [
+    {
+      "src": "6461762.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
