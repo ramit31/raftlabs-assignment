@@ -20,7 +20,7 @@ App built using React.
 ## Running locally
 
 ```bash
-git clone https://github.com/raftlabs-assignment/assignment2.git
+git clone https://github.com/ramit31/raftlabs-assignment.git
 cd assignment2
 npm i
 npm start
